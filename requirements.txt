@@ -1,0 +1,5 @@
+httpx>=0.25
+websockets>=11.0
+pyotp>=2.9
+beautifulsoup4>=4.12
+flask>=2.3
